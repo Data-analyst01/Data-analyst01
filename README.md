@@ -1,6 +1,6 @@
-90 Days Hard Data Analysis
+90 Days Hard Data version 1.0
 
- Full-time Research analyst diving into data
+ Full-time Research Analyst diving into data
        
 
 Day 1: PROJECT: Sales Dashboard for McDonald's South American Region
