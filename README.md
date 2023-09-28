@@ -14,5 +14,7 @@ Created a dynamic dashboard within Excel:
 4. Customized branding integration for a cohesive look.
 
 
-
+PROJECT: Bangladesh 3D Covid-19 update
 ![cv19](https://github.com/Data-analyst01/Data-analyst01/assets/146304319/5b5d18f3-3e1f-4084-b7f6-e6b9304a0dde)
+
+Used provided Bangladesh data to create a visually appealing pie chart on Excel.
