@@ -1,5 +1,8 @@
 90 Days Hard Data Analysis
 
+ Full-time Research analyst diving into data
+       
+
 Day 1: PROJECT: Sales Dashboard for McDonald's South American Region
 
 
