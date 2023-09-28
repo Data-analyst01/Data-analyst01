@@ -15,3 +15,4 @@ Created a dynamic dashboard within Excel:
 
 
 
+![cv19](https://github.com/Data-analyst01/Data-analyst01/assets/146304319/5b5d18f3-3e1f-4084-b7f6-e6b9304a0dde)
