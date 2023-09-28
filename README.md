@@ -1,4 +1,4 @@
-90 Days Hard Data version 1.0
+90 Days Hard Data v1.0
 
  Full-time Research Analyst diving into data
        
