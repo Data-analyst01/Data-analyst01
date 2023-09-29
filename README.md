@@ -8,12 +8,9 @@ Day 1: Sales Dashboard for McDonald's South American Region
 
 https://github.com/Data-analyst01/Data-analyst01/assets/146304319/82866f21-fd59-4a58-9797-9b6a44d90bbf
 
-Created a dynamic dashboard within Excel:
+Created an interactive dashboard using McDonald's South American Region sales with integrated hyperlink and visually appealing dashboard. Cleaned and prepped data and created KPI's to give insight.
 
-1. Seamless hyperlink navigation
-2. Enhanced structural design with icons
-3. A suite of interactive visuals: Map, Radar, Line, Doughnut charts, KPIs
-4. Customized branding integration for a cohesive look.
+
 
 
 Day 2: UK 2021-2022 Road Accident Interactive Dashboard
