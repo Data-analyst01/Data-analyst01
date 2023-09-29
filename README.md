@@ -16,7 +16,7 @@ Created a dynamic dashboard within Excel:
 4. Customized branding integration for a cohesive look.
 
 
-Day 2: UK Road Accident Dashboard
+Day 2: UK Road Accident Interactive Dashboard
 
 ![Screenshot (74)](https://github.com/Data-analyst01/Data-analyst01/assets/146304319/55026c9b-d609-4ec7-938d-5a9a675e1c24)
 ![Screenshot (75)](https://github.com/Data-analyst01/Data-analyst01/assets/146304319/a52d54b6-7405-4416-b5cc-3b0d637268f9)
