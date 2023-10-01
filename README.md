@@ -3,7 +3,7 @@ v1.0
  Full-time Research Analyst diving into data
        
 
-Day 1: Sales Dashboard for McDonald's South American Region
+Sales Dashboard for McDonald's South American Region
 
 
 https://github.com/Data-analyst01/Data-analyst01/assets/146304319/82866f21-fd59-4a58-9797-9b6a44d90bbf
@@ -13,7 +13,7 @@ Created an interactive dashboard using McDonald's South American Region sales wi
 
 
 
-Day 2: UK 2021-2022 Road Accident Interactive Dashboard
+UK 2021-2022 Road Accident Interactive Dashboard
 
 ![Screenshot (74)](https://github.com/Data-analyst01/Data-analyst01/assets/146304319/55026c9b-d609-4ec7-938d-5a9a675e1c24)
 ![Screenshot (75)](https://github.com/Data-analyst01/Data-analyst01/assets/146304319/a52d54b6-7405-4416-b5cc-3b0d637268f9)
