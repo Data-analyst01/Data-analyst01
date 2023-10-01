@@ -20,7 +20,6 @@ Day 2: UK 2021-2022 Road Accident Interactive Dashboard
 ![Screenshot (76)](https://github.com/Data-analyst01/Data-analyst01/assets/146304319/66c911f2-7bfc-4496-92bd-8faebe652426)
 
 Created a Interactive Dashboard in Excel with a filter system to give a visually appealing insight into Urban/Rural Uk road accidents. Multiple KPI’s, hyper linked dashboard, and prepped data 3.07m / 21 for integration.
-
 DATA CLEANED
 NO of Rows - 3.07million/
 NO of Fields-21
